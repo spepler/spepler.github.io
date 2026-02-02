@@ -2,6 +2,6 @@
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-remote_theme: spepler/eds_theme
+remote_theme: spepler/eds_theme@0.0.1
 plugins:
 - jekyll-remote-theme 
